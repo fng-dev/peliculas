@@ -17,6 +17,12 @@ Primero clone el repositorio
 
 `composer install`  
 
+## Instalar Dependencias Front
+
+`npm install`  
+
+`npm run prod`  
+
 ## .ENV
 
 Copie el arquivo .env
